@@ -2,7 +2,7 @@
 if((isset($_POST['cname'])&&isset($_POST['contact'])) {
 	$name = $_POST['cname'];
 	$contact = $_POST['contact'];
-	$to = 'dsandeep35@gmail.com';
+	$to = 'info@applerepairs.in';
 	$subject = "new subscriber";
 	$body = '<html>
 				<body>
